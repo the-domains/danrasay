@@ -1,0 +1,28 @@
+name: DanRasay
+favicon: null
+layout_spectrum: 0.2820850512944162
+typography_spectrum: 0.5087374669965357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.06589971738867462
+  lightness: 0.10325536713935435
+  saturation: 0.5405671501066536
+  rhythmicContrast: 0.64258405379951
+purpose: []
